@@ -4,7 +4,7 @@ postgresql_users:
   - name: postgres
     password: r3dh4t1!
 
-postgresql_version: 13
+postgresql_version: 16
 
 postgresql_global_config_options:
 
